@@ -1,0 +1,12 @@
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\bin\Release\net6.0\Azure.KeyVault.deps.json
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\bin\Release\net6.0\Azure.KeyVault.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\bin\Release\net6.0\ref\Azure.KeyVault.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\bin\Release\net6.0\Azure.KeyVault.pdb
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\obj\Release\net6.0\Azure.KeyVault.csproj.AssemblyReference.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\obj\Release\net6.0\Azure.KeyVault.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\obj\Release\net6.0\Azure.KeyVault.AssemblyInfoInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\obj\Release\net6.0\Azure.KeyVault.AssemblyInfo.cs
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\obj\Release\net6.0\Azure.KeyVault.csproj.CoreCompileInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\obj\Release\net6.0\Azure.KeyVault.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\obj\Release\net6.0\ref\Azure.KeyVault.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\obj\Release\net6.0\Azure.KeyVault.pdb

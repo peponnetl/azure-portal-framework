@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Azure.KeyVault</id>
+    <version>1.0.0</version>
+    <authors>Azure.KeyVault</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Azure.Identity" version="1.9.0" exclude="Build,Analyzers" />
+        <dependency id="Azure.Security.KeyVault.Secrets" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\Azure.KeyVault\bin\Release\net6.0\Azure.KeyVault.dll" target="lib\net6.0\Azure.KeyVault.dll" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\bin\Debug\net6.0\Azure.LogAnalyticsWorkspace.deps.json
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\bin\Debug\net6.0\Azure.LogAnalyticsWorkspace.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\bin\Debug\net6.0\ref\Azure.LogAnalyticsWorkspace.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\bin\Debug\net6.0\Azure.LogAnalyticsWorkspace.pdb
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\obj\Debug\net6.0\Azure.LogAnalyticsWorkspace.csproj.AssemblyReference.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\obj\Debug\net6.0\Azure.LogAnalyticsWorkspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\obj\Debug\net6.0\Azure.LogAnalyticsWorkspace.AssemblyInfoInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\obj\Debug\net6.0\Azure.LogAnalyticsWorkspace.AssemblyInfo.cs
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\obj\Debug\net6.0\Azure.LogAnalyticsWorkspace.csproj.CoreCompileInputs.cache
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\obj\Debug\net6.0\Azure.LogAnalyticsWorkspace.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\obj\Debug\net6.0\ref\Azure.LogAnalyticsWorkspace.dll
+C:\Users\lpeponnet\source\repos\PTC\common-framework\azure-portal-framework\src\LogAnalyticsWorkspace\obj\Debug\net6.0\Azure.LogAnalyticsWorkspace.pdb

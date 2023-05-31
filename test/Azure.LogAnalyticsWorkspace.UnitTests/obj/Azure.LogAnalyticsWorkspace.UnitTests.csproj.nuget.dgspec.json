@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\test\\Azure.LogAnalyticsWorkspace.UnitTests\\Azure.LogAnalyticsWorkspace.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\src\\Azure.LogAnalyticsWorkspace\\Azure.LogAnalyticsWorkspace.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\src\\Azure.LogAnalyticsWorkspace\\Azure.LogAnalyticsWorkspace.csproj",
+        "projectName": "Azure.LogAnalyticsWorkspace",
+        "projectPath": "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\src\\Azure.LogAnalyticsWorkspace\\Azure.LogAnalyticsWorkspace.csproj",
+        "packagesPath": "C:\\Users\\lpeponnet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\src\\Azure.LogAnalyticsWorkspace\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lpeponnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\test\\Azure.LogAnalyticsWorkspace.UnitTests\\Azure.LogAnalyticsWorkspace.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\test\\Azure.LogAnalyticsWorkspace.UnitTests\\Azure.LogAnalyticsWorkspace.UnitTests.csproj",
+        "projectName": "Azure.LogAnalyticsWorkspace.UnitTests",
+        "projectPath": "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\test\\Azure.LogAnalyticsWorkspace.UnitTests\\Azure.LogAnalyticsWorkspace.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\lpeponnet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\test\\Azure.LogAnalyticsWorkspace.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lpeponnet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\src\\Azure.LogAnalyticsWorkspace\\Azure.LogAnalyticsWorkspace.csproj": {
+                "projectPath": "C:\\Users\\lpeponnet\\source\\repos\\PTC\\common-framework\\azure-portal-framework\\src\\Azure.LogAnalyticsWorkspace\\Azure.LogAnalyticsWorkspace.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "NFluent": {
+              "target": "Package",
+              "version": "[3.0.0.351, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

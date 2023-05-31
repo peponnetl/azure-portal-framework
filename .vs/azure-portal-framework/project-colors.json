@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "85a6d211-6f68-4980-afae-ece804c61f95": {
+      "ProjectGuid": "85a6d211-6f68-4980-afae-ece804c61f95",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 0
+    },
+    "f83c03c6-16f2-4ee9-9851-6bb2132ef86d": {
+      "ProjectGuid": "f83c03c6-16f2-4ee9-9851-6bb2132ef86d",
+      "DisplayName": "LogAnalyticsWorkspace",
+      "ColorIndex": 1
+    },
+    "b734f828-e4ba-49d7-92a1-6d092d7e1215": {
+      "ProjectGuid": "b734f828-e4ba-49d7-92a1-6d092d7e1215",
+      "DisplayName": "Azure.LogAnalyticsWorkspace",
+      "ColorIndex": 2
+    },
+    "1fcfb0da-73e7-4947-acd9-eb453b58213e": {
+      "ProjectGuid": "1fcfb0da-73e7-4947-acd9-eb453b58213e",
+      "DisplayName": "Azure.LogAnalyticsWorkspace.UnitTests",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "abbaf0c9-c0ca-45ea-bdec-33d8b6358afd": {
+      "ProjectGuid": "abbaf0c9-c0ca-45ea-bdec-33d8b6358afd",
+      "DisplayName": "Azure.LogAnalyticsWorkspace",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
